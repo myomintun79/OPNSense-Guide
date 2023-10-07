@@ -9,3 +9,7 @@ https://www.youtube.com/watch?v=gLA1a7Xn924&list=PLCQ7UEq6XQ1GRtKpOkfxW6Oc_2Vxkm
 # Port forward
 https://www.wundertech.net/how-to-port-forward-in-opnsense/ \
 https://getlabsdone.com/how-to-configure-opnsense-port-forwarding/
+
+# Next Generation Firewall Plugin
+https://www.zenarmor.com/free-edition-plan \
+https://www.zenarmor.com/docs/opnsense/installing/install-zenarmor-ngfw-plugin-on-opnsense-web-ui
