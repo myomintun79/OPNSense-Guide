@@ -13,3 +13,6 @@ https://getlabsdone.com/how-to-configure-opnsense-port-forwarding/
 # Next Generation Firewall Plugin
 https://www.zenarmor.com/free-edition-plan \
 https://www.zenarmor.com/docs/opnsense/installing/install-zenarmor-ngfw-plugin-on-opnsense-web-ui
+
+# GeoLite2 Free Geolocation Data
+https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
