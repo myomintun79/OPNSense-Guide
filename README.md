@@ -16,3 +16,9 @@ https://www.zenarmor.com/docs/opnsense/installing/install-zenarmor-ngfw-plugin-o
 
 # GeoLite2 Free Geolocation Data
 https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
+
+# OpenVPN
+https://docs.opnsense.org/manual/vpnet.html#openvpn-ssl-vpn \
+https://www.youtube.com/watch?v=R8gfoGRgrxQ&t=50s&ab_channel=DailyTechBites \
+https://www.youtube.com/watch?v=bd0_E6nEFco&t=359s&ab_channel=PhasedLogixITServices \
+
