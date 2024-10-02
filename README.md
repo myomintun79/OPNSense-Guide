@@ -9,6 +9,9 @@ https://docs.opnsense.org/manual/install.html \
 https://www.youtube.com/watch?v=1R9QlMC8bhU&ab_channel=TheNetworkBerg \
 https://www.youtube.com/watch?v=gLA1a7Xn924&list=PLCQ7UEq6XQ1GRtKpOkfxW6Oc_2VxkmRVc&ab_channel=PhasedLogixITServices
 
+# Configuration Interfaces
+https://3hcloud.com/blog/technologies/opnsense-guide/
+
 # Beginner's Guide to Set Up a Home Network Using OPNsense
 https://homenetworkguy.com/how-to/beginners-guide-to-set-up-home-network-using-opnsense/ \
 https://homenetworkguy.com/how-to/set-up-a-fully-functioning-home-network-using-opnsense/
