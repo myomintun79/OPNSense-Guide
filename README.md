@@ -42,3 +42,9 @@ https://homenetworkguy.com/how-to/configure-openvpn-opnsense/ \
 https://www.youtube.com/watch?v=R8gfoGRgrxQ&t=50s&ab_channel=DailyTechBites \
 https://www.youtube.com/watch?v=bd0_E6nEFco&t=359s&ab_channel=PhasedLogixITServices \
 
+# IDS & IPS System
+https://www.youtube.com/watch?v=g9HI3U8bODg&ab_channel=jonomoss \
+https://medium.com/@parkerbenitez/opnsense-next-gen-firewall-a-deep-dive-into-suricata-integration-e5b71cb9b3b3 \
+https://forum.opnsense.org/index.php?topic=40405.0 \
+https://www.nova-labs.net/opnsense-and-enabling-suricata-rules/
+
