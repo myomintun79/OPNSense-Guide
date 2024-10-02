@@ -1,6 +1,9 @@
 # OPNSense-Guide
 For OPNSense Firewall Guide
 
+# The Beginner's Guide for OPNsense(Book)
+https://www.zenarmor.com/opnsense-beginner-guide-form?utm_source=website&utm_medium=opnsenseforum&utm_campaign=beginnersguide
+
 # Unpack the image file(Extract)
 :~$ bzip2 -d OPNsense-filename.bz2
 
