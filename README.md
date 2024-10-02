@@ -2,7 +2,7 @@
 For OPNSense Firewall Guide
 
 # Unpack the image file(Extract)
-:~$ bzip2 -d OPNsense-<filename>.bz2
+:~$ bzip2 -d OPNsense-filename.bz2
 
 # Install OPNSense
 https://docs.opnsense.org/manual/install.html \
