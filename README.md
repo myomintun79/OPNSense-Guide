@@ -49,5 +49,6 @@ https://forum.opnsense.org/index.php?topic=40405.0 \
 https://www.nova-labs.net/opnsense-and-enabling-suricata-rules/
 
 # Appliance for Open-Source Software
-https://protectli.com/
+https://protectli.com/ \
+https://www.youtube.com/watch?v=-v7MFDpjI9g&ab_channel=TechTutorials-DavidMcKone
 
