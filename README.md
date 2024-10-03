@@ -48,3 +48,6 @@ https://medium.com/@parkerbenitez/opnsense-next-gen-firewall-a-deep-dive-into-su
 https://forum.opnsense.org/index.php?topic=40405.0 \
 https://www.nova-labs.net/opnsense-and-enabling-suricata-rules/
 
+# Appliance for Open-Source Software
+https://protectli.com/
+
