@@ -37,6 +37,7 @@ https://www.zenarmor.com/docs/opnsense/installing/install-zenarmor-ngfw-plugin-o
 https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
 
 # OpenVPN
+https://www.youtube.com/watch?v=mmpF7EkqvVA&ab_channel=WireNetwork \
 https://docs.opnsense.org/manual/vpnet.html#openvpn-ssl-vpn \
 https://homenetworkguy.com/how-to/configure-openvpn-opnsense/ \
 https://www.youtube.com/watch?v=R8gfoGRgrxQ&t=50s&ab_channel=DailyTechBites \
