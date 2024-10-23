@@ -41,7 +41,6 @@ https://www.youtube.com/watch?v=R8gfoGRgrxQ&ab_channel=DailyTechBites \
 https://www.youtube.com/watch?v=mmpF7EkqvVA&ab_channel=WireNetwork \
 https://docs.opnsense.org/manual/vpnet.html#openvpn-ssl-vpn \
 https://homenetworkguy.com/how-to/configure-openvpn-opnsense/ \
-https://www.youtube.com/watch?v=R8gfoGRgrxQ&t=50s&ab_channel=DailyTechBites \
 https://www.youtube.com/watch?v=bd0_E6nEFco&t=359s&ab_channel=PhasedLogixITServices \
 
 # IDS & IPS System
