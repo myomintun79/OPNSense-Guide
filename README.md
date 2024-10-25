@@ -25,6 +25,10 @@ https://3hcloud.com/blog/technologies/opnsense-guide/
 https://homenetworkguy.com/how-to/beginners-guide-to-set-up-home-network-using-opnsense/ \
 https://homenetworkguy.com/how-to/set-up-a-fully-functioning-home-network-using-opnsense/
 
+# Firewall Rule
+https://www.youtube.com/watch?v=cqGFNOTKHAk&ab_channel=ToTatCa \
+https://homenetworkguy.com/how-to/firewall-rules-cheat-sheet/
+
 # Port forward
 https://www.wundertech.net/how-to-port-forward-in-opnsense/ \
 https://getlabsdone.com/how-to-configure-opnsense-port-forwarding/
