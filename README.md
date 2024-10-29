@@ -42,6 +42,7 @@ https://www.zenarmor.com/docs/opnsense/installing/install-zenarmor-ngfw-plugin-o
 https://dev.maxmind.com/geoip/geolite2-free-geolocation-data
 
 # OpenVPN
+https://www.zenarmor.com/docs/network-security-tutorials/how-to-install-openvpn-with-mfa-in-opnsense \
 https://www.youtube.com/watch?v=R8gfoGRgrxQ&ab_channel=DailyTechBites \
 https://www.youtube.com/watch?v=mmpF7EkqvVA&ab_channel=WireNetwork \
 https://docs.opnsense.org/manual/vpnet.html#openvpn-ssl-vpn \
