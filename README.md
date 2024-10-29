@@ -28,7 +28,8 @@ https://homenetworkguy.com/how-to/set-up-a-fully-functioning-home-network-using-
 # Firewall Rule
 https://www.youtube.com/watch?v=cqGFNOTKHAk&ab_channel=ToTatCa \
 https://forum.opnsense.org/index.php?topic=20884.0 \
-https://homenetworkguy.com/how-to/firewall-rules-cheat-sheet/
+https://homenetworkguy.com/how-to/firewall-rules-cheat-sheet/ \
+https://www.zenarmor.com/docs/network-security-tutorials/how-to-configure-opnsense-firewall-rules
 
 # Port forward
 https://www.wundertech.net/how-to-port-forward-in-opnsense/ \
