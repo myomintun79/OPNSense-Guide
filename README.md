@@ -56,6 +56,9 @@ https://medium.com/@parkerbenitez/opnsense-next-gen-firewall-a-deep-dive-into-su
 https://forum.opnsense.org/index.php?topic=40405.0 \
 https://www.nova-labs.net/opnsense-and-enabling-suricata-rules/
 
+# OSPF Routing
+https://docs.opnsense.org/manual/how-tos/dynamic_routing_ospf.html
+
 # Appliance for Open-Source Software
 https://protectli.com/ \
 https://www.youtube.com/watch?v=-v7MFDpjI9g&ab_channel=TechTutorials-DavidMcKone
