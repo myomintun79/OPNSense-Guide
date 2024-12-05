@@ -50,6 +50,11 @@ https://docs.opnsense.org/manual/vpnet.html#openvpn-ssl-vpn \
 https://homenetworkguy.com/how-to/configure-openvpn-opnsense/ \
 https://www.youtube.com/watch?v=bd0_E6nEFco&t=359s&ab_channel=PhasedLogixITServices \
 
+# VLAN
+https://www.zenarmor.com/docs/network-security-tutorials/how-to-configure-vlan-on-opnsense \
+https://docs.opnsense.org/manual/how-tos/vlan_and_lagg.html \
+https://homenetworkguy.com/how-to/set-up-management-vlan-for-opnsense-network-switch-and-access-point/
+
 # IDS & IPS System
 https://www.youtube.com/watch?v=g9HI3U8bODg&ab_channel=jonomoss \
 https://medium.com/@parkerbenitez/opnsense-next-gen-firewall-a-deep-dive-into-suricata-integration-e5b71cb9b3b3 \
